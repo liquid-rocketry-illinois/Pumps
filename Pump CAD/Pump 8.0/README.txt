@@ -19,6 +19,10 @@ Naming of part files does not strictly follow the folder sequence said file is l
 Here is a detailed visualization of the folder structure:
 
 Pump 8.0
+	Engineering Drawings
+		LabySeal_Bolts
+		LabySeal_Clamped
+
 	Rotational Parts
 		Custom Rotational Parts
 			304 Stainless Steel
