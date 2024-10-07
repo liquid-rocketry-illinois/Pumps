@@ -1,4 +1,4 @@
-This is the folder containing the assembly of pump V8.1, as well as all of the associated files as of 9/24/2024.
+This is the folder containing the assembly of pump V8.1, as well as all of the associated files as of 10/7/2024.
 
 -------------------------------------------------------------------
 
@@ -17,6 +17,10 @@ Added version notes section to README file
 Added to do section to README file
 
 Removed folder organization visual -> too large for the visual to be useful
+
+Assigned materials to all components in assembly
+
+Changed material for bearings to 1045 Carbon Steel
 
 -------------------------------------------------------------------
 
@@ -75,9 +79,9 @@ Grade 621 PTFE                                   Labyrinth Seal                 
 316 Stainless Steel       Male-Male Straight     NPT Adapter      3/8"-3/8" Pipe          (1)
 316 Stainless Steel       Male-Male Straight     NPT Adapter      1/2"-1/2" Pipe          (1)
 
-440C Stainless Steel      Shielded Deep Groove   Ball Bearing     12mmID 37mmOD           (2)
+1045 Carbon Steel         Shielded Deep Groove   Ball Bearing     12mmID 37mmOD           (2)
 
-15-7 PH Stainless Steel   Internal              Retaining Ring   7/8"ID 0.971"OD         (1)
+15-7 PH Stainless Steel   Internal               Retaining Ring   7/8"ID 0.971"OD         (1)
 
 PTFE                                             O-Ring           2-022                   (1)
 PTFE                                             O-Ring           2-042                   (1)
